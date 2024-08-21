@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tdeAula04/1.0.0": {
+        "runtime": {
+          "tdeAula04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tdeAula04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

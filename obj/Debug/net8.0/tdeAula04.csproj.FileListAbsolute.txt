@@ -1,0 +1,14 @@
+C:\Users\DevKailan\Documents\Meus Projetos\tdeAula04\bin\Debug\net8.0\tdeAula04.exe
+C:\Users\DevKailan\Documents\Meus Projetos\tdeAula04\bin\Debug\net8.0\tdeAula04.deps.json
+C:\Users\DevKailan\Documents\Meus Projetos\tdeAula04\bin\Debug\net8.0\tdeAula04.runtimeconfig.json
+C:\Users\DevKailan\Documents\Meus Projetos\tdeAula04\bin\Debug\net8.0\tdeAula04.dll
+C:\Users\DevKailan\Documents\Meus Projetos\tdeAula04\bin\Debug\net8.0\tdeAula04.pdb
+C:\Users\DevKailan\Documents\Meus Projetos\tdeAula04\obj\Debug\net8.0\tdeAula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevKailan\Documents\Meus Projetos\tdeAula04\obj\Debug\net8.0\tdeAula04.AssemblyInfoInputs.cache
+C:\Users\DevKailan\Documents\Meus Projetos\tdeAula04\obj\Debug\net8.0\tdeAula04.AssemblyInfo.cs
+C:\Users\DevKailan\Documents\Meus Projetos\tdeAula04\obj\Debug\net8.0\tdeAula04.csproj.CoreCompileInputs.cache
+C:\Users\DevKailan\Documents\Meus Projetos\tdeAula04\obj\Debug\net8.0\tdeAula04.dll
+C:\Users\DevKailan\Documents\Meus Projetos\tdeAula04\obj\Debug\net8.0\refint\tdeAula04.dll
+C:\Users\DevKailan\Documents\Meus Projetos\tdeAula04\obj\Debug\net8.0\tdeAula04.pdb
+C:\Users\DevKailan\Documents\Meus Projetos\tdeAula04\obj\Debug\net8.0\tdeAula04.genruntimeconfig.cache
+C:\Users\DevKailan\Documents\Meus Projetos\tdeAula04\obj\Debug\net8.0\ref\tdeAula04.dll
